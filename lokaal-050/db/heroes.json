@@ -1,0 +1,44 @@
+{
+  "heroes": [
+    {
+      "state": "active",
+      "title": "IJ verige studenten",
+      "preview_text": "Bij onze onderwijsinstelling geloven we sterk in het belang van het aanleren van duurzame kookvaardigheden en zero waste-principes aan onze studenten. Hier is waarom dit een integraal onderdeel is van ons onderwijsprogramma en waarom het van onschatbare waarde is voor de toekomst van onze studenten en onze planeet.",
+      "main_text_1": "<h2>Duurzaamheid in de Keuken</h2>Duurzaam koken gaat verder dan alleen het bereiden van smakelijke maaltijden; het omvat ook bewuste keuzes maken die de impact op het milieu verminderen. Door onze studenten te leren hoe ze duurzaam kunnen koken, rusten we hen uit met de kennis en vaardigheden om verantwoorde beslissingen te nemen over voedselbronnen, seizoensgebondenheid en voedselproductie. Dit draagt bij aan een gezondere planeet op de lange termijn.<h2>Beperking van Voedselverspilling</h2>Voedselverspilling is een wereldwijd probleem, en koken met zero waste in gedachten is een krachtige manier om dit aan te pakken. Onze studenten leren hoe ze alle delen van voedsel kunnen benutten, zoals schillen, stengels en restjes, om heerlijke en voedzame maaltijden te bereiden. Dit minimaliseert niet alleen afval, maar vermindert ook de druk op natuurlijke hulpbronnen die worden gebruikt bij voedselproductie.<h2>Bewustwording van Consumptiepatronen</h2>Het leren koken met duurzaamheid en zero waste in gedachten draagt bij aan het creëren van bewuste consumenten. Onze studenten ontwikkelen een dieper begrip van waar hun voedsel vandaan komt, hoe het wordt geproduceerd en welke impact hun keuzes hebben op het milieu. Dit bewustzijn gaat verder dan de keuken en beïnvloedt hun algehele levensstijl en consumptiepatronen.<h2>Het Belang van Lokale en Seizoensgebonden Ingrediënten</h2>Duurzaam koken moedigt het gebruik van lokale en seizoensgebonden ingrediënten aan. Door studenten te leren hoe ze deze ingrediënten kunnen herkennen en gebruiken, stimuleren we de ondersteuning van lokale boeren en verminderen we de ecologische voetafdruk van voedseltransport.",
+      "main text_2": "",
+      "quote": "",
+      "img_url": "studenten_1.jpg",
+      "video_url": "student_5.mp4"
+    },
+    {
+      "state": "active",
+      "title": "Flinke pompoenen",
+      "preview_text": "Wij streven ernaar om niet alleen hoogwaardige producten te leveren, maar ook om onze impact op het milieu te minimaliseren. Daarom zijn onze pompoenen een uitstekende keuze voor zowel uw smaakpapillen als voor het behoud van onze kostbare planeet. In deze tekst willen we u graag vertellen waarom onze pompoenen duurzaam zijn en hoe we ze verwerken met zero waste als onze topprioriteit.",
+      "main_text_1": "<h2>Duurzame teelt</h2>Onze pompoenen worden geteeld met het milieu in gedachten. We maken gebruik van duurzame landbouwpraktijken, zoals biologische teelt, waarbij we synthetische pesticiden en kunstmest vermijden. Dit beschermt niet alleen de gezondheid van de bodem, maar ook die van de lokale gemeenschappen en de biodiversiteit.<h2>Waterbeheer</h2>Water is een kostbaar goed, en we begrijpen het belang van verstandig waterbeheer. Onze irrigatiesystemen zijn ontworpen om waterverbruik te minimaliseren en regenwater op te vangen voor gebruik in de teelt. Hierdoor verminderen we onze ecologische voetafdruk en dragen we bij aan het behoud van zoetwaterbronnen.<h2>Lokale productie</h2>Wij geloven sterk in lokale productie om transportkosten en de bijbehorende koolstofemissies te verminderen. Onze pompoenen worden lokaal geteeld en geoogst, waardoor we de uitstoot van broeikasgassen minimaliseren en tegelijkertijd de lokale economie ondersteunen.<h2>Zero Waste-verwerking</h2>Bij het verwerken van onze pompoenen staat zero waste centraal. We zorgen ervoor dat elk deel van de pompoen wordt benut, zodat er niets verloren gaat. Hier is hoe we dat doen:",
+      "main text_2": "<h2>Eetbaar gedeelte:</h2> Het vruchtvlees van de pompoen wordt gebruikt in onze heerlijke producten, zoals soepen, purees en gebakken gerechten. Hierdoor blijft er geen eetbaar materiaal verspild.<h2>Zaden:</h2> Pompoenzaden zijn een gezonde en voedzame snack. We roosteren ze en verpakken ze in biologisch afbreekbare verpakkingen, zodat u kunt genieten van deze lekkernij zonder schade toe te brengen aan het milieu.<h2>Schillen en pulp:</h2> Zelfs de schillen en pulp worden niet verspild. We verwerken ze tot compost, die we teruggeven aan onze landbouwgronden om de bodemvruchtbaarheid te verhogen.<h2>Verpakkingen:</h2> We gebruiken milieuvriendelijke verpakkingsmaterialen, zoals karton en biologisch afbreekbare plasticalternatieven, om onze pompoenproducten te verpakken. Ons doel is om plastic afval tot een minimum te beperken en de recyclage te vergemakkelijken.",
+      "quote": "",
+      "img_url": "pompoen_4.jpg",
+      "video_url": "pompoen_6.mp4"
+    },
+    {
+      "state": "active",
+      "title": "Vette varkens",
+      "preview_text": "Bij ons staat duurzaamheid centraal in alles wat we doen, en onze varkens vormen daarop geen uitzondering. We zijn er trots op dat we duurzaamheid in de veehouderij bevorderen en ervoor zorgen dat onze varkens met respect voor het milieu worden geteeld en verwerkt. Hier is waarom onze varkens duurzaam zijn en hoe we zero waste als onze topprioriteit beschouwen.",
+      "main_text_1": "",
+      "main text_2": "",
+      "quote": "",
+      "img_url": "varken_4.jpg",
+      "video_url": "varken_5"
+    },
+    {
+      "state": "active",
+      "title": "Ronde uien",
+      "preview_text": "Bij ons ligt duurzaamheid aan de basis van alles wat we doen, en onze uien vormen daarop geen uitzondering. We zijn er trots op dat we duurzaamheid in de landbouw bevorderen en ervoor zorgen dat onze uien met respect voor het milieu worden geteeld en verwerkt. Hier is waarom onze uien duurzaam zijn en hoe we zero waste als onze topprioriteit beschouwen.",
+      "main_text_1": "",
+      "main text_2": "",
+      "quote": "",
+      "img_url": "uien_4",
+      "video_url": "uien_5.mp4"
+    }
+  ]
+}
