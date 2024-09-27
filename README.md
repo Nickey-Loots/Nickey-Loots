@@ -6,5 +6,5 @@ Student Software Developer
 
 *   🌍  I'm based in The Netherlands
 *   ✉️  You can contact me at [nloots@st.noorderpoort.nl](mailto:nloots@st.noorderpoort.nl)
-*   🧠  I'm learning PDO
+*   🧠  I'm learning OOP
 *   💻  Github is https://github.com/Nickey-Loots
