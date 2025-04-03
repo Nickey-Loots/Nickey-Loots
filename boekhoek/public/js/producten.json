@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "naam": "The lord of the Rings: The fellowship of the Ring",
+        "prijs": 25,
+        "img": "https://api.bruna.nl/images/active/carrousel/fullsize/9780261102354_front.jpg"
+    },
+    {
+        "id": 2,
+        "naam": "The lord of the Rings: The Two Towers",
+        "prijs": 23,
+        "img": "https://m.media-amazon.com/images/I/61JO1okOIHL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 3,
+        "naam": "The lord of the Rings: The Return of the King",
+        "prijs": 21,
+        "img": "https://m.media-amazon.com/images/I/61LRlaBYyDL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 4,
+        "naam": "The Hobbit",
+        "prijs": 20,
+        "img": "https://m.media-amazon.com/images/I/71V2v2GtAtL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 5,
+        "naam": "The Silmarillion",
+        "prijs": 23,
+        "img": "https://thebookmarkpr.com/cdn/shop/products/9780544338012_47c8b_580x.jpg?v=1588201839"
+    }
+]
