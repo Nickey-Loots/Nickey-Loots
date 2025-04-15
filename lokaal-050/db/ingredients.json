@@ -1,0 +1,64 @@
+{
+  "ingredients": [
+    {
+      "title": "Swienerie Oldambt",
+      "text": "Ons varkensvlees komt van Swienerie Oldambt. Een regionale duurzame varkensfokker met liefde voor biologische producten. Doordat deze varkens volledig biologsch op eigen land gefokt en gevoerd worden hebben ze een heerlijke authentieke smaak.",
+      "quote": "",
+      "image_url": "varken_1.jpg"
+    },
+    {
+      "title": "Zelfgemaakte Kombucha",
+      "text": "Om onze kombucha zelf op een duurzame te maken, kiezen we voor biologische thee en suiker. We hergebruiken glazen potten en flessen en vermijden plastic. Daarnaast composten we de overgebleven theebladeren en streven we naar een lage energieconsumptie tijdens het fermentatieproces.",
+      "quote": "",
+      "image_url": "kombucha_1.jpg"
+    },
+    {
+      "title": "Biologische Bloemkool",
+      "text": "Om onze bloemkool zero-waste en duurzaam te bereiden, gebruiken we alle delen van de groente, inclusief de bladeren en stengels. We vermijden plastic verpakkingen en kiezen voor herbruikbare zakken of containers. Onze composthoop ontvangt alle restjes en schillen, en we streven naar lokale en seizoensgebonden productie voor een kleinere ecologische voetafdruk.",
+      "quote": "",
+      "image_url": "bloemkool_1.jpg"
+    },
+    {
+      "title": "Pompoenen",
+      "text": "Om onze pompoen zero-waste en duurzaam te benutten, gebruiken we alle delen, inclusief zaden en schillen voor gerechten en snacks. We vermijden plastic en kiezen voor herbruikbare verpakkingen of bulkopties. Pompoenresten gaan naar de composthoop en we streven naar lokaal geteelde pompoenen om transportkosten te verminderen en onze ecologische voetafdruk te verkleinen.",
+      "quote": "",
+      "image_url": "pompoen_1.jpg"
+    },
+    {
+      "title": "Mandarijnen",
+      "text": "Om onze mandarijnen zero-waste en duurzaam te gebruiken, schillen we ze dun zodat er zo min mogelijk verspilling is. We vermijden plastic verpakkingen en kiezen voor herbruikbare of biologisch afbreekbare opties. Mandarijnschillen worden gecomposteerd, en we moedigen lokale en seizoensgebonden aankopen aan om onze ecologische voetafdruk te verkleinen.",
+      "quote": "",
+      "image_url": "manderijn_1.jpg"
+    },
+    {
+      "title": "Kastanje",
+      "text": "Om onze kastanjes zero-waste en duurzaam te benutten, gebruiken we alle eetbare delen en minimaliseren we schillen. We verpakken ze in herbruikbare zakken of containers om plastic te vermijden. Kastanjeschillen worden gecomposteerd, en we ondersteunen lokale bronnen om transportkosten te reduceren en onze milieu-impact te verminderen.",
+      "quote": "",
+      "image_url": "kastanje_1.jpg"
+    },
+    {
+      "title": "Bieten",
+      "text": "Om onze bieten zelf duurzaam te maken volgens zero-waste, gebruiken we alle delen, inclusief de bladeren, voor diverse gerechten. We vermijden plastic verpakkingen en gebruiken herbruikbare zakken of containers. Bietenresten worden gecomposteerd, en we stimuleren lokale en seizoensgebonden aankopen om onze ecologische voetafdruk te verkleinen.",
+      "quote": "",
+      "image_url": "bieten_1.jpg"
+    },
+    {
+      "title": "Wortels",
+      "text": "Om onze wortels zelf duurzaam te maken volgens zero-waste, gebruiken we alle delen, inclusief het loof, in diverse recepten. We vermijden plastic verpakkingen en kiezen voor herbruikbare zakken of containers. Wortelresten worden gecomposteerd, en we steunen lokale boeren voor minder transport en lagere milieu-impact.",
+      "quote": "",
+      "image_url": "wortels_1.jpg"
+    },
+    {
+      "title": "Stoofperen",
+      "text": "Om onze stoofperen zelf duurzaam te maken volgens zero-waste, gebruiken we alle delen, inclusief het loof, in diverse recepten. We vermijden plastic verpakkingen en kiezen voor herbruikbare zakken of containers. Wortelresten worden gecomposteerd, en we steunen lokale boeren voor minder transport en lagere milieu-impact.",
+      "quote": "",
+      "image_url": "stoofperen_1.jpg"
+    },
+    {
+      "title": "Port",
+      "text": "Om onze port zelf duurzaam te maken volgens zero-waste, gebruiken we alle delen, inclusief het loof, in diverse recepten. We vermijden plastic verpakkingen en kiezen voor herbruikbare zakken of containers. Wortelresten worden gecomposteerd, en we steunen lokale boeren voor minder transport en lagere milieu-impact.",
+      "quote": "",
+      "image_url": "port_1.jpg"
+    }
+  ]
+}
