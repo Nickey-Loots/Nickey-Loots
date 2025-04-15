@@ -16,6 +16,7 @@ I am a passionate student software developer with a keen interest in learning an
 
 - Programming Languages: PHP, JavaScript
 - Web Development: HTML, CSS
+- Frameworks: Bootstrap, TailwindCSS, Angular.js, Vue.js, React
 - Version Control: Git, GitHub
 - Tools: Visual Studio Code
 
