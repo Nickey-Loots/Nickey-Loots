@@ -58,8 +58,6 @@ Route::middleware('auth')->group(function () {
 
     Route::get('/orders', [OrderController::class, 'index'])->name('orders.index');
 
-    // Route::get('/products', [ProductController::class, 'index'])->name('products.index');
-
     Route::post('/logout', [AuthenticatedSessionController::class, 'destroy'])
         ->name('logout');
 
