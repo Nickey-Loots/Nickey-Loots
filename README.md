@@ -3,7 +3,7 @@
 ## Student Software Developer
 
 - 🌍 Based in The Netherlands
-- ✉️ Contact: [nloots@st.noorderpoort.nl](mailto:nloots@st.noorderpoort.nl)
+- ✉️ Contact: [nickey@landstra-degroot.nl](mailto:nickey@landstra-degroot.nl)
 - 💻 GitHub: [https://github.com/Nickey-Loots](https://github.com/Nickey-Loots)
 
 ---
