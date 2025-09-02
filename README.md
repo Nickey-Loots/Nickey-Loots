@@ -10,13 +10,13 @@
 
 ## About Me
 
-I am a passionate student software developer with a keen interest in learning and applying Object-Oriented Programming principles. I am currently studying at Noorderpoort and am eager to expand my knowledge and skills in software development.
+I am a passionate student software developer with an internship at Landstra & de Groot Online Media. I am currently studying at Noorderpoort and I am eager to expand my knowledge and skills in software development.
 
 ## Skills
 
 - Programming Languages: PHP, JavaScript
 - Web Development: HTML, CSS
-- Frameworks: Bootstrap, TailwindCSS, Angular.js, Vue.js, React
+- Frameworks: Bootstrap, TailwindCSS, Angular.js, Vue.js, React, Laravel
 - Version Control: Git, GitHub
 - Tools: Visual Studio Code
 
